@@ -1,0 +1,19 @@
+Garson vardiyasını başlatır.
+
+
+Müşteri masaya oturur.
+
+
+Garson masayı açar ve siparişleri girer.
+
+
+Sipariş mutfak ekranına düşer.
+
+
+Ürünler hazırlanır ve servis edilir.
+
+
+Müşteri hesabı ister, nakit veya kartla ödeme yapar.
+
+
+Hesap tamamen kapandığında masa boşalır.
